@@ -1,5 +1,6 @@
 # Give Me A Job
-List of official career page IT Company in various industry
+List of official career page Company in various industry
 
 # Countries
-- Indonesia | [IDN](idn.md)
+  👇 Find list companies by country
+  - [Indonesia](idn.md) | IDN
