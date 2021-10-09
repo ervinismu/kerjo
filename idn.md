@@ -10,6 +10,13 @@ List of official career page Company in various industry
 |[nodeflux](https://www.nodeflux.io/)|[career](https://www.linkedin.com/company/nodeflux/jobs/)| Unleash your business potential through ai value creation |
 |[prosa.ai](https://prosa.ai)|[career](https://prosa.ai/career#positions)| Pemrosesan Bahasa Alami dan Solusi Kecerdasan Buatan untuk Bahasa Indonesia |
 
+# E-Commerce
+
+| Official Web | Career Page | About |
+|:---:|:---:|:---:|
+|[blibli](https://www.blibli.com/)|[career](https://careers.blibli.com/)| Toko online terlengkap & terpercaya dengan beragam produk pilihan serta promo menarik. |
+|[bukalapak](https://www.bukalapak.com)|[career](https://careers.bukalapak.com/)| Menciptakan Ekonomi yang Adil untuk Semua |
+|[tokopedia](https://www.tokopedia.com)|[career](https://www.tokopedia.com/careers/)| perusahaan teknologi Indonesia dengan misi mencapai pemerataan ekonomi secara digital. |
 
 # Education
 
