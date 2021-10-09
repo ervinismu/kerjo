@@ -1,4 +1,4 @@
-# kerjo | IDN (Indonesia)
+# IDN (Indonesia)
 List of official career page IT Company in various industry
 
 # AI
