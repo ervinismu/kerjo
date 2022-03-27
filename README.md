@@ -45,6 +45,6 @@ List of official career page Company in various industry
 | Waresix |[view](https://www.waresix.com/)|[view](https://careers.waresix.com/)|
 | Sicepat |[view](https://www.sicepat.com/)|[view](https://www.sicepat.com/career)|
 | Shipper |[view](https://shipper.id/)|[view](https://shipper.id/career)|
-| Kargo |[view](hhttps://kargo.tech/en/about/)|[view](https://kargo-technologies.breezy.hr/)|
+| Kargo |[view](https://kargo.tech/en/about/)|[view](https://kargo-technologies.breezy.hr/)|
 | Logisly |[view](https://logisly.com/)|[view](https://logisly.com/careers)|
 | Rara Delivery |[view](https://www.rara.delivery/)|[view](https://www.rara.delivery/careers/)|
