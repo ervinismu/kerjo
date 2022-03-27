@@ -3,13 +3,13 @@ List of official career page Company in various industry
 
 ## Navigation
 
-| No |           Category      | Instant Link                                                                          |
-|:--:|:------------------------|---------------------------------------------------------------------------------------|
-| 1. | Artificial intelligence | [Explore](https://github.com/ervinismu/give-me-a-job#artificial-intelligence)         |
-| 2. | E-Commerce              | [Explore](https://github.com/ervinismu/give-me-a-job#e-commerce)                      |
-| 3. | Education               | [Explore](https://github.com/ervinismu/give-me-a-job#education)                       |
-| 4. | Health                  | [Explore](https://github.com/ervinismu/give-me-a-job#health)                          |
-| 5. | Logistics               | [Explore](https://github.com/ervinismu/give-me-a-job#logistics)                       |
+| No |           Category      | Instant Link                                                                     |
+|:--:|:------------------------|----------------------------------------------------------------------------------|
+| 1. | Artificial intelligence | [Explore](https://github.com/ervinismu/give-me-a-job#1-artificial-intelligence)  |
+| 2. | E-Commerce              | [Explore](https://github.com/ervinismu/give-me-a-job#2-e-commerce)               |
+| 3. | Education               | [Explore](https://github.com/ervinismu/give-me-a-job#3-education)                |
+| 4. | Health                  | [Explore](https://github.com/ervinismu/give-me-a-job#4-health)                   |
+| 5. | Logistics               | [Explore](https://github.com/ervinismu/give-me-a-job#5logistics)                 |
 
 ## Categories 
 
