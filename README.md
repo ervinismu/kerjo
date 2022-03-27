@@ -15,7 +15,7 @@ List of official career page Company in various industry include company data re
 
 ### 1. Artificial intelligence
 
-| No |     Name    |         Official Page          |                 Career Page                           |                      Company Date                               |
+| No |     Name    |         Official Page          |                 Career Page                           |                      Company Data                               |
 |:--:|:------------|:------------------------------:|:-----------------------------------------------------:|:---------------------------------------------------------------:|
 | 1. | dattabot.io |[view](https://kata.ai/)        |[view](https://dattabot.io/life-at-dattabot/)          | [Crunchbase](https://www.crunchbase.com/organization/mediatrac) |
 | 2. | kata.ai     |[view](https://kata.ai/)        |[view](https://kata.ai/career)                         | [Crunchbase](https://www.crunchbase.com/organization/kata)      |
@@ -26,7 +26,7 @@ List of official career page Company in various industry include company data re
 
 ### 2. E-Commerce
 
-| No |    Name   |          Official Page          |           Career Page                    |                      Company Date                               |
+| No |    Name   |          Official Page          |           Career Page                    |                      Company Data                               |
 |:--:|:----------|:-------------------------------:|:----------------------------------------:|:---------------------------------------------------------------:|
 | 1. | blibli    |[view](https://www.blibli.com/)  |[view](https://careers.blibli.com/)       | [Crunchbase](https://www.crunchbase.com/organization/blibli)    |
 | 2. | bukalapak |[view](https://www.bukalapak.com)|[view](https://careers.bukalapak.com/)    | [Crunchbase](https://www.crunchbase.com/organization/bukalapak) |
@@ -36,8 +36,8 @@ List of official career page Company in various industry include company data re
 
 ### 3. Education
 
-| No |    Name   |        Official Page             |               Career Page                   |                      Company Date                                      |
-|:--:|:---------:|:--------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------:|
+| No |    Name   |        Official Page             |               Career Page                   |                      Company Data                                      |
+|:--:|:----------|:--------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------:|
 | 1. | harukaedu |[view](https://harukaedu.com/)    |[view](https://harukaedu.com/career/)        | [Crunchbase](https://www.crunchbase.com/organization/harukaedu)        |
 | 2. | pahamify  |[view](https://pahamify.com/)     |[view](https://pahamify.com/career-list/)    | [Crunchbase](https://www.crunchbase.com/organization/pahamify)         |
 | 3. | ruangguru |[view](https://www.ruangguru.com/)|[view](https://career.ruangguru.com/)        | [Crunchbase](https://www.crunchbase.com/organization/ruangguru)        |
@@ -47,8 +47,8 @@ List of official career page Company in various industry include company data re
 
 ### 4. Health
 
-| No |   Name    |       Official Page              |                   Career Page                  |                      Company Date                               |
-|:--:|:---------:|:--------------------------------:|:----------------------------------------------:|:---------------------------------------------------------------:|
+| No |   Name    |       Official Page              |                   Career Page                  |                      Company Data                               |
+|:--:|:----------|:--------------------------------:|:----------------------------------------------:|:---------------------------------------------------------------:|
 | 1. | alodokter |[view](https://www.alodokter.com/)|[view](https://www.kalibrr.com/c/alodokter/jobs)| [Crunchbase](https://www.crunchbase.com/organization/alodokter) |
 | 2. | halodoc   |[view](https://www.halodoc.com/)  |[view](https://www.halodoc.com/career)          | [Crunchbase](https://www.crunchbase.com/organization/halodoc)   |
 | 3. | sehatq    |[view](https://www.sehatq.com/)   |[view](https://www.sehatq.com/karir)            | [Crunchbase](https://www.crunchbase.com/organization/sehatq)    |
@@ -57,8 +57,8 @@ List of official career page Company in various industry include company data re
 
 ### 5.Logistics
 
-|  No |    Name       |       Official Page                |         Career Page                         |                      Company Date                                        |
-|:---:|:-------------:|:----------------------------------:|:-------------------------------------------:|:------------------------------------------------------------------------:|
+|  No |    Name       |       Official Page                |         Career Page                         |                      Company Data                                        |
+|:---:|:--------------|:----------------------------------:|:-------------------------------------------:|:------------------------------------------------------------------------:|
 | 1.  | Waresix       |[view](https://www.waresix.com/)    |[view](https://careers.waresix.com/)         | [Crunchbase](https://www.crunchbase.com/organization/waresix)            |
 | 2.  | Sicepat       |[view](https://www.sicepat.com/)    |[view](https://www.sicepat.com/career)       | [Crunchbase](https://www.crunchbase.com/organization/sicepat-express)    |
 | 3.  | Shipper       |[view](https://shipper.id/)         |[view](https://shipper.id/career)            | [Crunchbase](https://www.crunchbase.com/organization/shipper-35b4)       |
