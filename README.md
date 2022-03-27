@@ -22,6 +22,8 @@ List of official career page Company in various industry
 | 3. | nodeflux    |[view](https://www.nodeflux.io/)|[view](https://www.linkedin.com/company/nodeflux/jobs/)|
 | 4. | prosa.ai    |[view](https://prosa.ai)        |[view](https://prosa.ai/career#positions)              |
 
+<sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
+
 ### 2. E-Commerce
 
 | No |    Name   |          Official Page          |           Career Page                    |
@@ -29,6 +31,8 @@ List of official career page Company in various industry
 | 1. | blibli    |[view](https://www.blibli.com/)  |[view](https://careers.blibli.com/)       |
 | 2. | bukalapak |[view](https://www.bukalapak.com)|[view](https://careers.bukalapak.com/)    |
 | 3. | tokopedia |[view](https://www.tokopedia.com)|[view](https://www.tokopedia.com/careers/)|
+
+<sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
 
 ### 3. Education
 
@@ -39,6 +43,8 @@ List of official career page Company in various industry
 | 3. | ruangguru |[view](https://www.ruangguru.com/)|[view](https://career.ruangguru.com/)        | 
 | 4. | zenius    |[view](https://www.zenius.net/)   |[view](https://www.zenius.net/we-are-hiring/)|
 
+<sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
+
 ### 4. Health
 
 | No |   Name    |       Official Page              |                   Career Page                  |
@@ -46,6 +52,8 @@ List of official career page Company in various industry
 | 1. | alodokter |[view](https://www.alodokter.com/)|[view](https://www.kalibrr.com/c/alodokter/jobs)|
 | 2. | halodoc   |[view](https://www.halodoc.com/)  |[view](https://www.halodoc.com/career)          |
 | 3. | sehatq    |[view](https://www.sehatq.com/)   |[view](https://www.sehatq.com/karir)            |
+
+<sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
 
 ### 5.Logistics
 
@@ -57,3 +65,6 @@ List of official career page Company in various industry
 | 4.  | Kargo         |[view](https://kargo.tech/en/about/)|[view](https://kargo-technologies.breezy.hr/)|
 | 5.  | Logisly       |[view](https://logisly.com/)        |[view](https://logisly.com/careers)          |
 | 6.  | Rara Delivery |[view](https://www.rara.delivery/)  |[view](https://www.rara.delivery/careers/)   |
+
+<sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
+
