@@ -5,34 +5,46 @@ List of official career page Company in various industry
 
 ### Artificial intelligence
 
-| Official Web | Career Page |
-|:---:|:---:|
-|[dattabot.io](https://kata.ai/)|[career](https://dattabot.io/life-at-dattabot/)|
-|[kata.ai](https://kata.ai/)|[career](https://kata.ai/career)|
-|[nodeflux](https://www.nodeflux.io/)|[career](https://www.linkedin.com/company/nodeflux/jobs/)|
-|[prosa.ai](https://prosa.ai)|[career](https://prosa.ai/career#positions)|
+| Name | Official Page | Career Page |
+|:--:|:---:|:---:|
+| dattabot.io |[view](https://kata.ai/)|[view](https://dattabot.io/life-at-dattabot/)|
+| kata.ai |[view](https://kata.ai/)|[view](https://kata.ai/career)|
+| nodeflux |[view](https://www.nodeflux.io/)|[view](https://www.linkedin.com/company/nodeflux/jobs/)|
+| prosa.ai |[view](https://prosa.ai)|[view](https://prosa.ai/career#positions)|
 
 ### E-Commerce
 
-| Official Web | Career Page |
-|:---:|:---:|
-|[blibli](https://www.blibli.com/)|[career](https://careers.blibli.com/)|
-|[bukalapak](https://www.bukalapak.com)|[career](https://careers.bukalapak.com/)|
-|[tokopedia](https://www.tokopedia.com)|[career](https://www.tokopedia.com/careers/)|
+| Name | Official Page | Career Page |
+|:--:|:---:|:---:|
+| blibli |[view](https://www.blibli.com/)|[view](https://careers.blibli.com/)|
+| bukalapak |[view](https://www.bukalapak.com)|[view](https://careers.bukalapak.com/)|
+| tokopedia |[view](https://www.tokopedia.com)|[view](https://www.tokopedia.com/careers/)|
 
 ### Education
 
-| Official Web | Career Page |
-|:---:|:---:|
-|[harukaedu](https://harukaedu.com/)|[career](https://harukaedu.com/career/)|
-|[pahamify](https://pahamify.com/)|[career](https://pahamify.com/career-list/)| 
-|[ruangguru](https://www.ruangguru.com/)|[career](https://career.ruangguru.com/)| 
-|[zenius](https://www.zenius.net/)|[career](https://www.zenius.net/we-are-hiring/)|
+| Name | Official Page | Career Page |
+|:--:|:---:|:---:|
+| harukaedu |[view](https://harukaedu.com/)|[view](https://harukaedu.com/career/)|
+| pahamify |[view](https://pahamify.com/)|[view](https://pahamify.com/career-list/)| 
+| ruangguru |[view](https://www.ruangguru.com/)|[view](https://career.ruangguru.com/)| 
+| zenius |[view](https://www.zenius.net/)|[view](https://www.zenius.net/we-are-hiring/)|
 
 ### Health
 
-| Official Web | Career Page |
-|:---:|:---:|
-|[alodokter](https://www.alodokter.com/)|[career](https://www.kalibrr.com/c/alodokter/jobs)|
-|[halodoc](https://www.halodoc.com/)|[career](https://www.halodoc.com/career)|
-|[sehatq](https://www.sehatq.com/)|[career](https://www.sehatq.com/karir)|
+| Name | Official Page | Career Page |
+|:--:|:---:|:---:|
+| alodokter |[view](https://www.alodokter.com/)|[view](https://www.kalibrr.com/c/alodokter/jobs)|
+| halodoc |[view](https://www.halodoc.com/)|[view](https://www.halodoc.com/career)|
+| sehatq |[view](https://www.sehatq.com/)|[view](https://www.sehatq.com/karir)|
+
+
+### Logistics
+
+| Name | Official Page | Career Page |
+|:--:|:---:|:---:|
+| Waresix |[view](https://www.waresix.com/)|[view](https://careers.waresix.com/)|
+| Sicepat |[view](https://www.sicepat.com/)|[view](https://www.sicepat.com/career)|
+| Shipper |[view](https://shipper.id/)|[view](https://shipper.id/career)|
+| Kargo |[view](hhttps://kargo.tech/en/about/)|[view](https://kargo-technologies.breezy.hr/)|
+| Logisly |[view](https://logisly.com/)|[view](https://logisly.com/careers)|
+| Rara Delivery |[view](https://www.rara.delivery/)|[view](https://www.rara.delivery/careers/)|
