@@ -1,5 +1,5 @@
 # Give Me A Job (IDN)
-List of official career page Company in various industry
+List of official career page Company in various industry include company data references.
 
 ## Navigation
 
