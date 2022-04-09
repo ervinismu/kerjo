@@ -69,7 +69,7 @@ List of official career page Company in various industry include company data re
 
 <sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
 
-### 4. Fintech
+### 6. Fintech
 
 | No |   Name    |       Official Page              |                   Career Page                  |                      Company Data                               |
 |:--:|:----------|:--------------------------------:|:----------------------------------------------:|:---------------------------------------------------------------:|
