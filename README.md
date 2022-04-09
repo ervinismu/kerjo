@@ -9,7 +9,8 @@ List of official career page Company in various industry include company data re
 | 2. | E-Commerce              | [Explore](https://github.com/ervinismu/give-me-a-job#2-e-commerce)               |
 | 3. | Education               | [Explore](https://github.com/ervinismu/give-me-a-job#3-education)                |
 | 4. | Health                  | [Explore](https://github.com/ervinismu/give-me-a-job#4-health)                   |
-| 5. | Logistics               | [Explore](https://github.com/ervinismu/give-me-a-job#5logistics)                 |
+| 5. | Logistics               | [Explore](https://github.com/ervinismu/give-me-a-job#5-logistics)                |
+| 6. | Fintech                 | [Explore](https://github.com/ervinismu/give-me-a-job#6-fintech)                  |
 
 ## Categories 
 
@@ -55,7 +56,7 @@ List of official career page Company in various industry include company data re
 
 <sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
 
-### 5.Logistics
+### 5. Logistics
 
 |  No |    Name       |       Official Page                |         Career Page                         |                      Company Data                                        |
 |:---:|:--------------|:----------------------------------:|:-------------------------------------------:|:------------------------------------------------------------------------:|
@@ -68,3 +69,12 @@ List of official career page Company in various industry include company data re
 
 <sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
 
+### 4. Fintech
+
+| No |   Name    |       Official Page              |                   Career Page                  |                      Company Data                               |
+|:--:|:----------|:--------------------------------:|:----------------------------------------------:|:---------------------------------------------------------------:|
+| 1. | alamisharia |[view](https://alamisharia.co.id/id)|[view](https://id.linkedin.com/company/alamisharia/jobs)| [Crunchbase](https://www.crunchbase.com/organization/alami) |
+| 2. | investree |[view](https://investree.id/en)|[view](https://career.investree.id/)| [Crunchbase](https://www.crunchbase.com/organization/investree) |
+| 3. | koinworks |[view](https://koinworks.com/)|[view](https://koinworks.com/karir/)| [Crunchbase](https://www.crunchbase.com/organization/koinworks) |
+
+<sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/give-me-a-job#navigation) </sub>
