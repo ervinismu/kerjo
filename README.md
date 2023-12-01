@@ -48,11 +48,12 @@ List of official career page Company in various industry include company data re
 
 ### Health
 
-| No |   Name    |       Official Page              |                   Career Page                  |                      Company Data                               |
-|:--:|:----------|:--------------------------------:|:----------------------------------------------:|:---------------------------------------------------------------:|
-| 1. | alodokter |[view](https://www.alodokter.com/)|[view](https://www.kalibrr.com/c/alodokter/jobs)| [Crunchbase](https://www.crunchbase.com/organization/alodokter) |
-| 2. | halodoc   |[view](https://www.halodoc.com/)  |[view](https://www.halodoc.com/career)          | [Crunchbase](https://www.crunchbase.com/organization/halodoc)   |
-| 3. | sehatq    |[view](https://www.sehatq.com/)   |[view](https://www.sehatq.com/karir)            | [Crunchbase](https://www.crunchbase.com/organization/sehatq)    |
+| No |   Name     |       Official Page                |                   Career Page                  |                      Company Data                                |
+|:--:|:-----------|:----------------------------------:|:----------------------------------------------:|:----------------------------------------------------------------:|
+| 1. | alodokter  |[view](https://www.alodokter.com/)  |[view](https://www.kalibrr.com/c/alodokter/jobs)| [Crunchbase](https://www.crunchbase.com/organization/alodokter)  |
+| 2. | halodoc    |[view](https://www.halodoc.com/)    |[view](https://www.halodoc.com/career)          | [Crunchbase](https://www.crunchbase.com/organization/halodoc)    |
+| 3. | sehatq     |[view](https://www.sehatq.com/)     |[view](https://www.sehatq.com/karir)            | [Crunchbase](https://www.crunchbase.com/organization/sehatq)     |
+| 4. | klikdokter |[view](https://www.klikdokter.com/) |[view](https://www.klikdokter.com/karier)       | [Crunchbase](https://www.crunchbase.com/organization/klikdokter) |
 
 <sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/kerjo#navigation) </sub>
 
