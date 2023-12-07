@@ -11,6 +11,7 @@ List of official career page Company in various industry include company data re
 | Health                  | [Explore](https://github.com/ervinismu/kerjo#4-health)                   |
 | Logistics               | [Explore](https://github.com/ervinismu/kerjo#5-logistics)                |
 | Fintech                 | [Explore](https://github.com/ervinismu/kerjo#6-fintech)                  |
+| Hispitality             | [Explore](https://github.com/ervinismu/kerjo#6-hospitality)              |
 
 ## Categories 
 
@@ -77,5 +78,13 @@ List of official career page Company in various industry include company data re
 | 1. | alamisharia |[view](https://alamisharia.co.id/id)|[view](https://id.linkedin.com/company/alamisharia/jobs)| [Crunchbase](https://www.crunchbase.com/organization/alami) |
 | 2. | investree |[view](https://investree.id/en)|[view](https://career.investree.id/)| [Crunchbase](https://www.crunchbase.com/organization/investree) |
 | 3. | koinworks |[view](https://koinworks.com/)|[view](https://koinworks.com/karir/)| [Crunchbase](https://www.crunchbase.com/organization/koinworks) |
+
+<sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/kerjo#navigation) </sub>
+
+### Hospitality
+
+| No |   Name    |       Official Page              |                   Career Page                  |                      Company Data                 |
+|:--:|:----------|:--------------------------------:|:----------------------------------------------:|:-------------------------------------------------:|
+| 1. | bobobox |[view](https://bobobox.com)|[view](https://careers.bobobox.com)| [Crunchbase](https://www.crunchbase.com/organization/bobobox-indonesia) |
 
 <sub> [:arrow_up_small: back to nagivation](https://github.com/ervinismu/kerjo#navigation) </sub>
